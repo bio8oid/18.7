@@ -7,9 +7,9 @@ var Contact = React.createClass({
     return (
         <div className = {'contactItem'}>
           className: 'contactImage',
-          src: 'http://icons.veryicon.com/ico/System/100%20Flat%20Vol.%202/contacts.ico'
-        }),
-          <img className = {'contactImage'} src = {'http://icons.veryicon.com/ico/System/100%20Flat%20Vol.%202/contacts.ico'}>
+          src: 'http:/icons.veryicon.com/ico/System/100%20Flat%20Vol.%202/contacts.ico'
+        
+          <img className = {'contactImage'} src = {'http://icons.veryicon.com/ico/System/100%20Flat%20Vol.%202/contacts.ico'} />
           <p className = {'contactLabel'}>
             Imię: {this.props.item.firstName}
           </p>
@@ -23,7 +23,4 @@ var Contact = React.createClass({
           </p>
         </div>
         )
-      )
-    )
-  },
-});
+      });
