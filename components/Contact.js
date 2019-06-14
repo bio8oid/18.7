@@ -22,5 +22,6 @@ var Contact = React.createClass({
             </a>
           </p>
         </div>
-        )
-      });
+        )     
+      }
+    });
