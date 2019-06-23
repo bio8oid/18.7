@@ -7,7 +7,7 @@ var Contact = React.createClass({
     return (
         <div className = {'contactItem'}>
           
-          <img className = {'contactImage'} src = {'./images/ico.png'} />
+          <img className = {'contactImage'} src = {'./ico.ico'} />
           <p className = {'contactLabel'}>
             Imię: {this.props.item.firstName}
           </p>
