@@ -2,4 +2,4 @@
 
 _Simple contact form - React- JSX syntax practice_
 
-[VIEW](https://bio8oid.github.io/18.7/)
+[VIEW](https://bio8oid.github.io/18.7__React__JSX-Contact_Form/)
